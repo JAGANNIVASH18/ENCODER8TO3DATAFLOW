@@ -58,8 +58,8 @@ assign a1=d2|d3|d6|d7;
 assign a2=d4|d5|d6|d7;
 endmodule
 
-Developed by:Gowtham S
-RegisterNumber:212224100018
+  Developed by:JAGANNIVASH UM
+RegisterNumber:212224240059
 ```
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
